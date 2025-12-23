@@ -4,3 +4,8 @@ Follow these rules:
 - Prefer clarity over abstraction
 - Do not introduce new frameworks
 - Wait for my confirmation
+---------------------------------------------
+Explain what this file does in plain English.
+List assumptions and hidden complexity.
+Do NOT suggest improvements yet.
+---------------------------------------------
