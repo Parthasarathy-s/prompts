@@ -1,3 +1,8 @@
 Explain the design and flow in plain English.
 Do NOT write code yet.
 Wait for my confirmation.
+------
+Modify ONLY this file.
+Explain changes line by line.
+Do not touch other files.
+------
