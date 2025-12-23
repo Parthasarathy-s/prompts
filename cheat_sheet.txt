@@ -1,0 +1,6 @@
+Follow these rules:
+- Modify only the selected file
+- Explain before coding
+- Prefer clarity over abstraction
+- Do not introduce new frameworks
+- Wait for my confirmation
