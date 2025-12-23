@@ -1,8 +1,18 @@
+Before:
 Explain the design and flow in plain English.
 Do NOT write code yet.
 Wait for my confirmation.
-------
+------------------------------------------------
+Write:
 Modify ONLY this file.
 Explain changes line by line.
 Do not touch other files.
-------
+------------------------------------------------
+Reviewer:
+
+Review this file for:
+1. Architecture violations
+2. Over-engineering
+3. Missing error handling
+4. Kogito best practices
+------------------------------------------------
