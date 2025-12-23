@@ -16,3 +16,9 @@ Review this file for:
 3. Missing error handling
 4. Kogito best practices
 ------------------------------------------------
+
+Act as a cautious senior engineer.
+Prefer simplicity over abstraction.
+If something is optional, skip it.
+Explain trade-offs.
+------------------------------------------------
