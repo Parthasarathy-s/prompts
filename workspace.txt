@@ -1,0 +1,11 @@
+Here’s a short, effective IDE LLM prompt you can use:
+
+“Scan the entire workspace. Explain the purpose of each module, key classes, and major functions. Describe how components interact, the overall architecture, data flow, and any important patterns or assumptions. Keep it concise and structured.”
+
+Even shorter (one-liner)
+
+“Analyze this workspace and explain what the code does, its architecture, and how the main components work together.”
+
+If you want a developer-friendly output
+
+“Review the workspace and summarize the codebase: architecture, core logic, key files, dependencies, and execution flow.”
